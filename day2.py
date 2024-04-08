@@ -1,3 +1,6 @@
+# Description: This file is for the second day of the python workshop
+
+
 # create variables for the following :
 # 1. age
 # 2. name
@@ -95,3 +98,21 @@ print(sqrt(54))
 # floating point numbers. 4E2 (4 times 10 to the power of 2) is also an example of a floating
 # point number in Python.
 
+
+
+# challenge exerces... 
+#create a program that asks for the user's name and age and then prints out the user's name and age
+
+# create a program that asks for the user's name and then prints out the user's name in all caps
+
+# create a program that asks for the user's name and then prints out the user's name in all lower case
+
+# create a program that asks for price and then prints out the price with a 10% discount
+
+# Given the phrase "Hancock High School", perform the following operations:
+# Print the phrase with a newline character to separate "Hancock" and "High" and "School".
+# Concatenate the phrase with " is cool", and print the result.
+# Print the length of the phrase.
+# Convert and print the phrase in uppercase and lowercase.
+# Check if the phrase is all lower or all upper and print the result.
+# Print the first and the last letter of the phrase.
